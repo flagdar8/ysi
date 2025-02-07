@@ -1,1 +1,58 @@
+<html>
+	
+<head>
+	<title> decime que si </title>
+</head>
 
+<body bgcolor="pink">
+<marquee> <font face="Comic Sans Ms" color="white"> <font size="20"> ¿QUERES SER MI SAN VALENTIN? </h3> </font> </marquee>
+	
+	<center>
+		<h1> TE AMO </h1>
+	
+	<font face="Comic Sans Ms" color="white">
+	<img src="imagenes\sanvalentin.jpg" style="width: 300px; height: 200px;">
+	
+	<p> Espero que me hagas el honor de aceptar
+	<br>
+	Ser parte de mi san valentin hagamos lo que hagamos
+	<br>
+	Te amo mucho y espero que tu respuesta sea un si
+	<br>
+	Perdón por mis palabras anteriores, me arrepiento
+	<br>
+	Te amo con mi vida y ojalá vos también ❤🌹.
+	<br>
+	</p>
+	</font>
+	</center>
+
+		<center>
+	<table border=1>
+		<th colspan=2> <h1> <font face="Comic Sans Ms" color="white"> Motivos por los que tenes que aceptar ser mi san valentin </font> </h1> </th>
+		<tr> 
+			<td> <font face="Comic Sans Ms" color="white"> <h2> Voy a estar más contento  </h2> </font> </td>
+			<td> <img src="imagenes\los 2.jpg" height= 670px width= 400px</td>
+		</tr>
+		
+		<tr>
+			<td> <font face="Comic Sans Ms" color="white"> <h2> Hagamos lo que hagamos vamos a estar juntos </h2> </font> </td>
+			<td> <img src= "imagenes\nos.jpg"  height= 670px width= 400px </td>
+		</tr>
+
+		<tr>
+			<td> <font face="Comic Sans Ms" color="white"> <h2> Y por último, nos amamos mucho asi que ojalá se pueda </h2> </font> </td>
+			<td> <img src=  "imagenes\mate.jpg" height= 670px width= 400px </td>
+		</tr>
+	</table>	
+		</center>
+
+	<center>
+		<h1> Entonces...</h1>
+		<p>
+			<h1>¿Queres formar parte de mi 14 de febrero?</h1>
+		</p>
+	</center>
+</body>
+
+</html>
